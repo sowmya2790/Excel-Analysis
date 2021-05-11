@@ -1,6 +1,6 @@
 # Excel-Analysis
 
-I have put together a few data analysis in excel I worked on recently in this [link](https://sowmya2790.github.io/Excel-Analysis/ )
+I have put together a few data analysis in excel I worked on recently in this [link](https://github.com/sowmya2790/Excel-Analysis.git )
 
 Description for the files in link:
 <br>
